@@ -1,0 +1,11 @@
+com/vtrump/vscaledemo/BuildConfig.java
+ com.vtrump.vscaledemo.BuildConfig
+com/vtrump/vscaledemo/MainActivity.java
+ com.vtrump.vscaledemo.MainActivity
+ com.vtrump.vscaledemo.MainActivity$1
+ com.vtrump.vscaledemo.MainActivity$2
+ com.vtrump.vscaledemo.MainActivity$3
+ com.vtrump.vscaledemo.MainActivity$3$1
+ com.vtrump.vscaledemo.MainActivity$3$2
+ com.vtrump.vscaledemo.MainActivity$4
+ com.vtrump.vscaledemo.MainActivity$4$1

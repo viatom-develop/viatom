@@ -1,0 +1,4 @@
+#Wed Nov 11 16:12:47 CST 2020
+base.0=D\:\\huangbo\\work\\software\\android\\demo\\VTBIADemoA\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
